@@ -1,18 +1,18 @@
 # Colour schemes for Oracle SQL Developer #
 
 ## Color schemes ##
-
+###Chester###
 ![Chester](screenshots/Chester.png)
-
+###Dracula###
 ![Dracula](screenshots/dracula.png)
-
+###Solarized dark###
 ![Solarized dark](screenshots/Solarized_dark.png)
-
+###VS2010 dark###
 ![VS2010-Dark](screenshots/VS2010_dark.png)
 
 ## Installation ##
 
-Many thanks to Ozmoroz for providing clear [instructions](https://github.com/ozmoroz/ozbsidian-sqldeveloper)
+Many thanks to Ozmoroz for providing clear instructions [(Source)](https://github.com/ozmoroz/ozbsidian-sqldeveloper) :
 
 Unfortunately Oracle doesn't make it easy to import a new colour scheme into SQL Developer, thus a little bit of hacking is required.
 
