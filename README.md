@@ -1,13 +1,13 @@
 # Colour schemes for Oracle SQL Developer #
 
 ## Color schemes ##
-###Chester###
+### Chester ###
 ![Chester](screenshots/Chester.png)
-###Dracula###
+### Dracula ###
 ![Dracula](screenshots/dracula.png)
-###Solarized dark###
+### Solarized dark ###
 ![Solarized dark](screenshots/Solarized_dark.png)
-###VS2010 dark###
+### VS2010 dark ###
 ![VS2010-Dark](screenshots/VS2010_dark.png)
 
 ## Installation ##
